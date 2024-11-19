@@ -1,0 +1,9 @@
+{
+    "fitness": 2,
+    "hunger": 8,
+    "bowel": false,
+    "sick": true,
+    "dirty": false,
+    "asleep": true,
+    "last_hour": 0
+}
