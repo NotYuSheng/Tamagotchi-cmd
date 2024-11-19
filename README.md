@@ -5,7 +5,7 @@ Originally created in 2020 by Team 1 as a short learning project, this game was 
 
 ## **Demos**
 
-Below are visual demonstrations of the Tamagotchi game in action:
+Below are demonstrations of the Tamagotchi game in action:
 
 ### **Exercise Animation**
 ![Exercise Animation](DEMO/exercise.gif)
