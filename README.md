@@ -4,7 +4,7 @@ A lightweight, Tamagotchi game played on the Windows command prompt, featuring c
 Originally created in 2020 by Team 1 as a short learning project, this game was rewritten in 2024 to adhere to PEP 8 standards.
 
 ## Features
-- **Dynamic Gameplay**: Manage your Tamagotchi's health, fitness, hunger, and happiness through various interactions.
+- **Dynamic Gameplay**: Manage your Tamagotchi's health, fitness, hunger, and happiness through various time-based interactions.
 - **Custom Graphics and Animations**: Built entirely with ASCII art and Python's Standard Library, offering immersive visuals without external dependencies.
 - **Save and Load Functionality**: Persist Tamagotchi states across sessions using JSON files stored locally.
 
