@@ -32,7 +32,7 @@ Below are demonstrations of the Tamagotchi game in action:
 
 ## Requirements
 The game was developed and tested on:
-- **Windows 11 OS**
+- **Windows 11**
 - **Python 3.13**
 
 ## How to Play
