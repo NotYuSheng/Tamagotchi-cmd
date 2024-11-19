@@ -31,8 +31,9 @@ Below are demonstrations of the Tamagotchi game in action:
 - **Save and Load Functionality**: Persist Tamagotchi states across sessions using JSON files stored locally.
 
 ## Requirements
-- **Windows OS**
-- **Python**
+The game was developed and tested on:
+- **Windows 11 OS**
+- **Python 3.13**
 
 ## How to Play
 1. Clone this repository to your local machine.
