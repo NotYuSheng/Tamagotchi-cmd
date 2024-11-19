@@ -9,7 +9,7 @@ Originally created in 2020 by Team 1 as a short learning project, this game was 
 - **Save and Load Functionality**: Persist Tamagotchi states across sessions using JSON files stored locally.
 
 ## Requirements
-- **Operating System**: Windows
+- **Windows OS**
 - **Python**
 
 ## How to Play
