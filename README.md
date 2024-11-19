@@ -1,4 +1,4 @@
-# Tamagotchi-cli
+# Tamagotchi-cmd
 A lightweight, Tamagotchi game played on the Windows command prompt, featuring custom graphics and animations. Built entirely in a no-internet environment without external Python libraries, this project demonstrates creativity in a constrained environments. Made by Team 1 in 2020.
 
 The project has since been rewritten in 2024 to adhere to PEP 8 standards.
