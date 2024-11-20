@@ -10,6 +10,9 @@ Below are demonstrations of the Tamagotchi game in action:
 ### **Exercise Animation**
 ![Exercise Animation](DEMO/exercise.gif)
 
+<details>
+  <summary>More DEMO</summary>
+  
 ### **Eating Animation**
 ![Eating Animation](DEMO/eating.gif)
 
@@ -24,6 +27,7 @@ Below are demonstrations of the Tamagotchi game in action:
 
 ### **Death Screen**
 ![Death Screen](DEMO/death.png)
+</details>
 
 ## Features
 - **Dynamic Gameplay**: Manage your Tamagotchi's health, fitness, hunger, and happiness through various time-based interactions.
